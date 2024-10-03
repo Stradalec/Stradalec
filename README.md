@@ -4,4 +4,4 @@
 
 ![](https://komarev.com/ghpvc/?username=Stradalec&color=green)
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stradalec&theme=solarized_dark)
